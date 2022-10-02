@@ -1,0 +1,39 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+p {
+  font-family: monospace;
+  font-size: 25px;
+  display: flex;
+  margin: auto
+}
+
+li {
+  font-family: monospace;
+  font-size: 33px;
+  display: flex;
+  margin: auto
+}
+
+
+img {
+  display: flex; 
+  margin: auto;
+  width: 50%;
+  border: 5px solid #555;
+}
